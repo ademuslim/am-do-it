@@ -1,4 +1,4 @@
-# API AM Do It
+# Rest API AM Do It
 UAS MK Pemrograman Mobile API Project Android <br>
 API login dan registrasi aplikasi to do list
 
@@ -10,7 +10,7 @@ I. Menyiapkan Database
 <br><br>
 <img width="500" alt="Screenshot 2023-07-12 230815" src="https://github.com/ademuslim/am-do-it/assets/69449808/38e0296c-541e-437e-9138-e2bcee7e4615">
 <hr>
-II. Membuat API
+II. Membuat Rest API
 <br><br>
 <img width="500" alt="Screenshot 2023-07-11 213404" src="https://github.com/ademuslim/am-do-it/assets/69449808/c527621d-32ad-45da-925e-333cf1e1ea9e">
 <hr>
